@@ -1,0 +1,1 @@
+* * * * * root /app/cron/generate_and_log_totp.sh >> /var/log/cron.log 2>&1
