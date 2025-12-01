@@ -1,0 +1,2 @@
+# Ensure cron files always use LF endings
+cron/2fa-cron text eol=lf
