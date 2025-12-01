@@ -1,2 +1,18 @@
 encrypted_seed.txt
 encrypted_seed.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
